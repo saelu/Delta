@@ -1,1 +1,1 @@
-slave test
+slave test new
